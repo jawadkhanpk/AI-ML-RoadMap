@@ -20,7 +20,7 @@ Watch only a few of these to get comfortable with functions and stuff
 
 - For Matplotlib: https://youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl
 
-## (iv) Machine Learning:
+## (iv) Machine Learning Specialization:
 
 https://coursera.org/specializations/machine-learning-introduction
 
