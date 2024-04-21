@@ -27,5 +27,5 @@ https://coursera.org/specializations/machine-learning-introduction
 This is the best ML course in the world, complete all courses properly.
 
 
-## (v) Deep Learning:
+## (v) Deep Learning Specialization:
 https://coursera.org/specializations/deep-learning
