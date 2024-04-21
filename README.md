@@ -4,7 +4,7 @@
 
 https://www.udemy.com/course/100-days-of-code/
 
-## (ii) Mathematics
+## (ii) Mathematics for Machine Learning and Data Science Specialization
 
 https://coursera.org/specializations/mathematics-for-machine-learning-and-data-science
 
